@@ -195,6 +195,3 @@ void main()
 	printVec(v1);
 
 }
-// comment git
-
-//25.08.2019
